@@ -340,6 +340,7 @@ LOCAL_SHARED_LIBRARIES := \
 	liblog \
 	libcutils \
 	libhardware \
+	libprocessgroup \
 	libtinyalsa \
 	libaudioroute \
 	libdl \
